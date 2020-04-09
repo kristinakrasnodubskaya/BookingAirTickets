@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Бронирование авиабилетов</string>
+    <string name="depart"> <u>отправление:</u> </string>
+    <string name="arrival"> <u>назначение:</u> </string>
+
+    <string-array name="countries">
+        <item> отправление </item>
+        <item> Россия </item>
+        <item> Франция </item>
+        <item> Германия </item>
+        <item> Италия </item>
+        <item> Испания </item>
+        <item> Турция </item>
+        <item> Таиланд </item>
+    </string-array>
+</resources>
